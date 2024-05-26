@@ -1,0 +1,6 @@
+[
+    "null", "eval", "function", "const", "let", "var", "location.href", "true", "false", "undefined",
+    "document.body", "document.addEventListener()", "document.createElement()", "fetch()",
+    "document.appendChild()", "JSON.parse()", "getBoundingClientRect()", "document.querySelector()",
+    "console.log()", "new WebSocket()", "new XmlHttpRequest()", "new FileReader()", "new Promise()"
+]

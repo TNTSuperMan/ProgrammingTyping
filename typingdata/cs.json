@@ -1,0 +1,6 @@
+[
+    "false", "true", "this", "string", "int", "double", "var", "void", "string.Empty", 
+    "ToString()", "GetHashCode()", "Console.WriteLine()", "Console.ReadLine()",
+    "ToLower()", "int.TryParse()", "File.WriteAllText()", "Clipboard.SetText()",
+    "new StreamReader()", "new StreamWriter()", "new FileStream()"
+]

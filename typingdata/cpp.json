@@ -1,0 +1,6 @@
+[
+    "false", "true", "this", "string", "int", "double", "var", "void",
+    "ifstream", "ofstream", "class", "struct", "return", "printf",
+    "cout", "goto", "cin", "#define", "#pragma once", "#include <>",
+    "using namespace std", "APIENTRY", "WINAPI", "wWinMain"
+]

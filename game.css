@@ -1,0 +1,33 @@
+*{
+    border-radius: 6px;
+    cursor:default;
+}
+body{
+    background:#000;
+    color:#0F0;
+    text-align:center;
+}
+code.time{
+    font-size:20px;
+}
+code.sample{
+    font-size:30px;
+    background:#111;
+    padding:5px;
+}
+code.preview{
+    font-size:50px;
+}
+a{
+    cursor:pointer;
+    text-decoration: none;
+    color:#FFF;
+    font-size:30px;
+    transition: all 0.5s ease;
+    width:10%;
+}
+a:hover{
+    background:#fff;
+    color:#000;
+    padding:10px;
+}
