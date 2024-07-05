@@ -1,0 +1,6 @@
+[
+    "<?php", "?>", "echo()", "$_POST[\"\"]", "setcookie()", "Header(\"\")", "time()",
+    "date()", "exit;", "die()", "isset()", "urlencode()", "urldecode()", "unset()",
+    "$_GET[\"\"]", "$_COOKIE[\"\"]", "$_SERVER[\"\"]", "$_FILES[\"\"]", "$_REQUEST[\"\"]",
+    "$_SESSION[\"\"]", "session_start()", "substr()", "strlen()", "define()"
+]
