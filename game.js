@@ -9,6 +9,7 @@
         let tid = 0;
         data.splice(i,1);
         $(".preview").textContent = pwr;
+        $("h1").textContent = "入力"
         function keydown(e){
             if(e.repeat) return;
             if(e.key == pwr[0]){
